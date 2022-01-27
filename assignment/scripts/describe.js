@@ -168,6 +168,8 @@ if (temp > 39 || time >= 4) {
 // -- it is, so we console.log 'enter'.
 
 /*
+// FIX - instructions asks to start with two variables but const was used for minAGE.
+// Should be let minAge = 21;
 let age = 21;
 const minAge = 21;
 
@@ -177,7 +179,8 @@ if(minAge <= age) {
   // FIX - instructions asks to console.log 'enter' if age is greater than or equal to minAge.
   // should be console.log('enter');
   console.log('no entry');
-} else {
+}
+else {
   // FIX - if age is less than 21, console log should print 'no entry'
   // should be console.log('no entry');
   console.log('enter');
