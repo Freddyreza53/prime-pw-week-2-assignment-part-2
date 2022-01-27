@@ -48,7 +48,7 @@ if (name === 'Mary') {
 // We begin by creating the variable 'secret', next we create the variable 'code' and set it equal to the integer 123.
 // The first if statement checks if 'code' is equal to 123. Since 'code' is equal to 123,
 // the if statement returns true and proceeds to the next line within the if statement. 'secret' is set equal to string 'super',
-// and 'code' is set equal to 123, which is the number curently stored in 'code', and multiplies it by 2.
+// and 'code' is equal to 123, which is the number curently stored in 'code', and multiplies it by 2.
 // Then the next if statement checks if 'code' is greater than 250. Since 'code' is equal to 246, the if statement returns false and
 // ignores the code within the if statement. Next we console.log 'secret' which produces the string 'super' in the console.
 //
