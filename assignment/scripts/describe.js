@@ -168,8 +168,6 @@ if (temp > 39 || time >= 4) {
 // -- it is, so we console.log 'enter'.
 
 /*
-// FIX - instructions asks to start with two variables but const was used for minAGE.
-// Should be let minAge = 21;
 let age = 21;
 const minAge = 21;
 
